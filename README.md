@@ -37,7 +37,7 @@ cd challenge1-data-science-latam
 1. Instala las dependencias necesarias:
 
 ```bash
-pip install jupyter pandas numpy matplotlib seaborn
+pip install jupyter pandas numpy matplotlib
 ```
 
 1. Abre y ejecuta el notebook:
